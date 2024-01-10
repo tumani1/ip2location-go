@@ -1,5 +1,5 @@
-module github.com/ip2location/ip2location-go/v9
+module github.com/tumani1/ip2location-go
 
 go 1.14
 
-require lukechampine.com/uint128 v1.2.0 // indirect
+require lukechampine.com/uint128 v1.2.0
